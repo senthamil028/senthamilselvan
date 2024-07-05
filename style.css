@@ -1,0 +1,16 @@
+body{
+    background: url("https://t4.ftcdn.net/jpg/03/11/53/55/360_F_311535527_l8jRr6cn0jW47Gu3sOTY2MGlnjRlCWBn.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+marquee{
+    width:400px;
+    margin-left: 400px;
+    
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
